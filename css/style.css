@@ -115,7 +115,7 @@ h4 {
     /* font-family: 'Baskerville', sans-serif; */
     visibility: hidden;
     text-align: center;
-    font-size:large;
+    font-size:larger;
     /* font-weight: bold; */
    background-color:  #ffffff;
    
@@ -134,8 +134,10 @@ footer h6 {
     font-size: 16px;
 }
 
-h2 {
-    text-align: left;
+p {
+    text-align: center;
+    font-size: 25px;
+    color: red;
 }
 
 

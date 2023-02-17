@@ -8,6 +8,8 @@ var userInput = $('#search-input')
 
 
 
+
+
  
 $("#search-button").on("click", function(event) {
     event.preventDefault();
