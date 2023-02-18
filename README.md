@@ -1,4 +1,4 @@
-# <p align="center">**Julia Website of BirdLover</p>
+# <p align="center">Julia Website of BirdLover</p>
 ## Table of Contents
 * [Description](#description)
 * [Usage](#usage)
@@ -14,7 +14,7 @@
 ## Languages
 * Javascript HTML CSS
 ## Installation
-* 
+https://mariuszwiacek.github.io/Julia/
 ## Contributing
 * 
 ## License
