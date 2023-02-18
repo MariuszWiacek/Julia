@@ -1,5 +1,6 @@
 
-  # <p align="center">Professional README Generator</p>
+  
+  # <p align="center">README Generator</p>
   ## Table of Contents
   * [Description](#description)
   * [Usage](#usage)
@@ -9,20 +10,20 @@
   * [License](#license)
   * [ContactMe](#contactMe)
   ## Description
-  *Generates professional README*
+  *Program to generate README*
   ## Usage
-  Type node index.js in terminal
+  Type node index.js in your terminal
   ## Languages
-  * node.js, Javascript
+  * Javascript
   ## Installation
   Open in node.js terminal
   ## Link
-  www.link.com
+  http://
   ## Contributing
   * Made by Mariusz Wiacek
   ## License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   * Link: https://opensource.org/licenses/MIT
   ## Contact me
-  * Profile: https://github.com/MariuszWiace
+  * Profile: https://github.com/MariuszWiacek
   * Email: wiacek.mariusz@gmail.com 
