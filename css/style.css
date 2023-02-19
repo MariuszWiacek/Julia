@@ -2,6 +2,49 @@ aside {
     width: 250px
 }
 
+.row {
+    padding-top: 3ch;
+}
+/*navbar*/
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #ffffff;
+    overflow: hidden;
+    border-bottom-style:groove;
+    font-family: 'Baskerville', sans-serif;
+    padding-bottom: 2%;
+    border-width: 0.02cm;
+    
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 23px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+ 
+  color: rgb(0, 0, 0);
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+}
+
+
 .input-group-append {
     display: flex;
     flex-direction: column
@@ -14,7 +57,7 @@ aside {
     width: 250px
 }
 
-#search-input {
+#red-input {
     margin-bottom: 10px;
     width: 300px;
     
@@ -23,7 +66,7 @@ aside {
 }
 
 
-#clear-button, #search-button {
+#blue-button, #red-button, #orange-button {
     font-family: 'Baskerville', sans-serif;
     font-weight: bold;
     color: #000000;
@@ -33,7 +76,7 @@ aside {
     background-color: #0099cc;
     border: none;
   }
-  #clear-button:after, #search-button:after {
+  #blue-button:after, #red-button:after, #orange-button:after {
     content: '';
     position: absolute;
     top: 0;
@@ -45,7 +88,7 @@ aside {
          -moz-transition: none;
               transition: none;
   }
-  #clear-button:hover:after, #search-button:hover:after {
+  #blue-button:hover:after, #red-button:hover:after, #orange-button:hover:after{
     width: 120%;
     background-color: rgba(255, 0, 0, 0);
     
@@ -54,7 +97,7 @@ aside {
               transition: all 0.4s ease-in-out;
   }
 
-  #clear-button {
+  #blue-button {
     background-color: rgba(250, 0, 0, 0.658);
     border-style:ridge;
   }
@@ -62,24 +105,19 @@ aside {
 
 #form-heading {
     font-weight:100;
-    font-size: 3vh;
-    margin-left: 10px;
+    font-size: 2.5vh;
     text-align: left;
     font-family: 'Baskerville', sans-serif;
 }
 
-#weather-header {
+header {
 
     padding: 5px;
 }
 
-h1 {
-    color: #000000;
-}
 
-h4 {
-    color: #000000;
-}
+
+
 
 #page-heading {
     font-family: 'Baskerville', sans-serif;
@@ -152,11 +190,11 @@ p {
         width: 100%
     }
 
-    #search-button #clear-button {
+    #red-button #clear-button {
         width: 100%
     }
 
-    #search-input {
+    #red-input {
         width: auto;
         
         align-items: center;
