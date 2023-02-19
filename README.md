@@ -1,24 +1,7 @@
 
   
-  # <p align="center">README Generator</p>
-  ## Table of Contents
-  * [Description](#description)
-  * [Usage](#usage)
-  * [Languages](#languages)
-  * [Installation Instructions](#installation)
-  * [Contributing](#Contributing)
-  * [License](#license)
-  * [ContactMe](#contactMe)
-  ## Description
-  *Program to generate README*
-  ## Usage
-  Type node index.js in your terminal
-  ## Languages
-  * Javascript
-  ## Installation
-  Open in node.js terminal
-  ## Link
-  http://
+  # <p align="center">Julia Wiacek website</p>
+ 
   ## Contributing
   * Made by Mariusz Wiacek
   ## License
